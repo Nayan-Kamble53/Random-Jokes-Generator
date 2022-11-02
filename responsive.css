@@ -1,0 +1,15 @@
+@media screen and (max-width:760px) {
+    .joke {
+        width: 70vw;
+        height: 40vh;
+        font-size: 1rem;
+        margin-top: 55%;
+    }
+
+    .btn {
+        position: relative;
+        top: 10%;
+        width: 45vw;
+        font-size: 1rem;
+    }
+}
